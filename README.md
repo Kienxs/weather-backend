@@ -47,12 +47,14 @@ Frontend (The Experience)
 Library: React.js (Functional Components & Hooks)
 
 Bundler: Vite (for ultra-fast development) 
-<a href="https://kien-weather.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Weather_Around_The_World-3B82F6?style=for-the-badge&logo=icloud&logoColor=white" height="35" />
-  </a>
 
 Data Fetching: Axios
 
 Geospatial: Leaflet & React-Leaflet
 
 Charts: React-Chartjs-2
+
+
+<a href="https://kien-weather.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Weather_Around_The_World-3B82F6?style=for-the-badge&logo=icloud&logoColor=white" height="35" />
+  </a>
